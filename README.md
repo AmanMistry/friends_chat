@@ -1,6 +1,7 @@
 # friends_chat
 
 A new Flutter project.
+Explain little bit more about project defination.
 
 ## Getting Started
 
